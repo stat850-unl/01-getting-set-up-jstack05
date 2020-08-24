@@ -1,4 +1,5 @@
 #01-getting-set-up-jstack05
+<<<<<<< HEAD
 
 # Getting Set Up with R, RStudio, SAS, and git
 
